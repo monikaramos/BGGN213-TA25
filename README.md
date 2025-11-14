@@ -1,2 +1,2 @@
 # BGGN213-TA25
-Class work for bioinformatics TAship
+Class work for bioinformatics TAship at UCSD
